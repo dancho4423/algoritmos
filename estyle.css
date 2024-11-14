@@ -1,0 +1,35 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section{
+    width: 100%;
+    min-height: 80vh;
+    padding: 30px 0 100px;
+    text-align: center;
+    background: #0e0d0d;
+}
+
+h1{
+    color: aqua;
+    font-size: 52px;
+}
+
+h2{
+    color: aqua;
+    font-size: 40px;
+}
+
+p{
+    color: #ffff;
+    font-size: 22px;
+}
+
+button{
+    background: transparent;
+    color: aqua;
+    border: 2px solid aqua;
+    padding: 14px 40px;
+    border-radius: 50px;
+    margin: 20px;
+}
